@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Social Media</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY" tools:ignore="ExtraTranslation">H3QJmiSs5YSqOkdXSSDBmGkdN</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET" tools:ignore="ExtraTranslation">Q11XexjhfyAxJNWMeObzBvASB5sNnQBbBLuadW8hT75f0GMwT8</string>
+    <string name="facebook_app_id">260581558567379</string>
+    <string name="fb_login_protocol_scheme">fb260581558567379</string>
+    <string name="btn_logout">Log Out</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="profile_name">Name</string>
+    <string name="profile_email">Email</string>
+</resources>
+
+
